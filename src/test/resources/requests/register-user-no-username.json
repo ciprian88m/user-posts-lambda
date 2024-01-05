@@ -1,0 +1,10 @@
+{
+  "headers": {
+    "x-function-name": "registerUser"
+  },
+  "body": {
+    "email": "user@email.com",
+    "username": "",
+    "password": "password"
+  }
+}

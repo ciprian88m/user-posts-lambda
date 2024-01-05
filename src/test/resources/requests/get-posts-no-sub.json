@@ -1,0 +1,6 @@
+{
+  "headers": {
+    "x-function-name": "getPosts",
+    "x-user-id": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "x-function-name": "savePost",
+    "x-user-id": ""
+  },
+  "body": {
+    "postTitle": "Remember to test",
+    "postBody": "Something about testing",
+    "postTags": [
+      "junit",
+      "assertj"
+    ]
+  }
+}

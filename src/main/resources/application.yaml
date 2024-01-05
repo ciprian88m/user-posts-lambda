@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    function:
+      routing-expression: "headers['x-function-name']"
+cognito:
+  region: ${REGION}
+  user-pool-id: ${USER_POOL_ID}
+  client-id: ${CLIENT_ID}
+dynamodb:
+  region: ${REGION}
+  table-name: ${TABLE_NAME}

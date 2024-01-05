@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "x-function-name": "savePost",
+    "x-user-id": "e654ebca-38e0-487a-b609-0284923be582"
+  },
+  "body": {
+    "postTitle": "Remember to test",
+    "postBody": "Something about testing",
+    "postTags": [
+      "junit",
+      "assertj"
+    ]
+  }
+}

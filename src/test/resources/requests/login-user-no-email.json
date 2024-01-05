@@ -1,0 +1,10 @@
+{
+  "headers": {
+    "x-function-name": "loginUser"
+  },
+  "body": {
+    "email": "",
+    "username": "username",
+    "password": "password"
+  }
+}

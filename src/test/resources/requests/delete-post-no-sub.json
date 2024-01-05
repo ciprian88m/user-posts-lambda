@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "x-function-name": "deletePost",
+    "x-user-id": ""
+  },
+  "body": {
+    "postTitle": "My new post"
+  }
+}
